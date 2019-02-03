@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
+title: Personal Info
 subtitle: Why you'd want to go on a date with me
+published: true
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is K. V. S. Dileep (you already know that!). Well, you want to know more about me personally. Well I'm delighted!   
 
-What else do you need?
+- Avid reader: [Goodreads](https://www.goodreads.com/user/show/3656461-dileep)
+- Moderate Quoran: [Quora](https://www.quora.com/profile/Dileep-Karri)
+- Decent Reader: [Medium](https://medium.com/@satyadileep)
 
-### my history
+I pretend to be interested in politics, and absolutely fascinated with gadgets and apps. I regularly check interesting news regarding research and technology. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I plan to write a novel in the distant future (but I am not sure as I have the nasty habit of delaying things). 
+
+> I love deadlines. I love the whooshing noise they make as they go by.” ― Douglas Adams
+
