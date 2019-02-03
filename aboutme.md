@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Personal Info
-subtitle: Why you'd want to go on a date with me
+subtitle: Poet. Playwright. Comic Book fan. Meet Peter Parker. 
 published: true
 ---
 
