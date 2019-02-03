@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Personal Info
-subtitle: Poet. Playwright. Comic Book fan. Meet Peter Parker. 
+subtitle: Poet. Playwright. Comic Book fan. Meet Bruce Wayne. 
 published: true
 ---
 
