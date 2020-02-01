@@ -5,12 +5,12 @@ subtitle: Interesting links to right knowledge.
 published: true
 ---
 
-Here I list out some interesting links to lecture notes/video lectures of different subjects that I have come across during the time I have been on the journey to discover knowledge. 
+Here I list out some interesting links to resources of different subjects that I have come across during the time I have been on the journey to discover knowledge. 
 
 ## Data Science/ML Good Courses
-[course page | Machine Learning for Intelligent Systems](http://www.cs.cornell.edu/courses/cs4780/2018fa/)
+[Machine Learning for Intelligent Systems](http://www.cs.cornell.edu/courses/cs4780/2018fa/)
 
-[MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018 - YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+[MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 
 [Principled Machine Learning: Practices and Tools for Efficient Collaboration](https://dev.to/robogeek/principled-machine-learning-4eho)
 
@@ -20,4 +20,4 @@ Here I list out some interesting links to lecture notes/video lectures of differ
 
 [SF Data Weekly - Revue](http://weekly.sfdata.io/)
 
-[dataquestio/data-science-blogs](https://github.com/dataquestio/data-science-blogs)
+[Data Science Blogs by Dataquest](https://github.com/dataquestio/data-science-blogs)
