@@ -1,6 +1,10 @@
-# The Elevator Pitch
+---
+layout: post
+title: The Elevator Pitch 
+image: /img/elevator-pitch.jpg
+---
 
-*This is a poem I had written long back - around 9 years back. Reposting here on my blog.*
+*This is a poem I had written long back - around 9 years back. Reposting here on my blog. Image credits: https://www.recruitday.com/blog/elevator-pitch-dos-donts-and-some-samples-get-you-started*
 
 I am just a software guy,  
 Don't dare to ask me why.   
