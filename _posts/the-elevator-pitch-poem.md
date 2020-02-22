@@ -4,7 +4,7 @@ title: The Elevator Pitch
 image: /img/elevator-pitch.jpg
 ---
 
-*This is a poem I had written long back - around 9 years back. Reposting here on my blog. Image credits: https://www.recruitday.com/blog/elevator-pitch-dos-donts-and-some-samples-get-you-started*
+*This is a poem I had written long back - around 9 years back. Revisited this poem today, and I still find it very relevant. Sometimes we miss the forest for the trees and chase the top, while forgetting the true core purpose of why we do, what we do.*
 
 I am just a software guy,  
 Don't dare to ask me why.   
@@ -54,5 +54,6 @@ The scores do not matter in the final decision.
 Thank God for that wonderful day,  
 When you pitched me a life's lesson in a unique way.  
 
+*Image credits: https://www.recruitday.com/blog/elevator-pitch-dos-donts-and-some-samples-get-you-started*
 
 
